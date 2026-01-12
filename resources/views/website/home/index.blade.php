@@ -8,12 +8,13 @@
 
         <div class="hero-content">
             <div class="container">
-                <p class="sub-title">Discover the Colorful World</p>
+                <p class="sub-title">ESCAPE THE INFINITE LOOP</p>
                 <h1 class="main-title">New Adventure</h1>
                 <p class="description">
-                    Shobar gulli mari, specially Tourism er!!!!!
+                    Trade your keyboards for backpacks. It’s time for to disconnect, debug our minds, and experience a world
+                    with higher resolution than 4K.
                 </p>
-                <a href="{{ route('auth.register') }}" class="btn btn-discover">Register Now</a>
+                <a href="{{ route('auth.register') }}" class="btn btn-discover">START THE JOURNEY →</a>
             </div>
         </div>
     </div>

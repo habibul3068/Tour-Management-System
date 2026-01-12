@@ -41,6 +41,7 @@
         }
 
         /* Background Image Handling */
+        /* Background Image Handling */
         .hero-bg {
             position: absolute;
             top: 0;
@@ -134,20 +135,25 @@
         }
 
         .btn-discover {
-            background-color: white;
-            color: #333;
-            font-weight: 700;
+            background-color: #10b981;
+            /* Emerald Green */
+            color: white;
+            font-weight: 800;
             padding: 12px 35px;
             border-radius: 50px;
             text-transform: uppercase;
             font-size: 0.9rem;
             border: none;
             transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);
         }
 
         .btn-discover:hover {
-            background-color: #f0f0f0;
+            background-color: #047857;
+            /* Darker Green */
+            color: white;
             transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(16, 185, 129, 0.6);
         }
 
         /* Responsive adjustments */
