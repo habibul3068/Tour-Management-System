@@ -198,7 +198,6 @@
         }
     </style>
 </head>
-
 <body>
 
     <!-- Navigation (Global) -->
@@ -216,10 +215,8 @@
                 <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
                     <ul class="navbar-nav">
                         <li class="nav-item"><a class="nav-link" href="{{ route('home') }}">Home</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#">About</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#">Service</a></li>
                         <li class="nav-item"><a class="nav-link" href="#">Gallery</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#">FAQ</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#">Credits</a></li>
                         <li class="nav-item"><a class="nav-link" href="{{ route('auth.login') }}">Login</a></li>
                     </ul>
                 </div>
